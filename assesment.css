@@ -1,0 +1,82 @@
+
+.h3{
+  background-color:#5d5d5d;
+  }
+
+
+.contactsContainer {
+  display:flex;
+  flex-direction: row;
+}
+
+td {
+padding: 15px;
+background-color:darkgray;
+border: 1px solid black;
+border-radius: 2px;
+}
+
+.logged-in {
+  color: green;
+}
+
+
+.logged-out {
+  color: red;
+}
+
+
+
+.body{
+background:gray;
+}
+  
+#name0 { 
+background-color:#5d5d5d;
+
+}
+
+
+#email0{
+background-color:#5d5d5d;
+}
+
+.table{
+width:100%;
+}
+
+
+#name2 { 
+background-color:#5d5d5d;
+
+}
+
+
+#email2{
+background-color:#5d5d5d;
+}
+
+
+
+#name4 { 
+background-color:#5d5d5d;
+
+}
+
+
+#email4{
+background-color:#5d5d5d;
+}
+
+
+
+#name6{ 
+background-color:#5d5d5d;
+
+}
+
+
+#email6{
+background-color:#5d5d5d;
+}
+
